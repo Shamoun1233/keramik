@@ -6,7 +6,7 @@ and created. The website is displayed in English,
 but if theres enough shown intresst i will make an 
 english version.
 </pre>
-  ******update:****** **the website is not phone/tablet friendly**
+  ***update:*** **the website is not phone/tablet friendly**
 
 
 
