@@ -1,0 +1,36 @@
+@keyframes changeColor{
+    0% {background-color: rgb(255, 0, 0);}
+    50% {background-color: rgb(83, 153, 39);}
+    100% {background-color: rgb(255, 0, 140);}
+
+    
+}
+        .body{
+            animation: changeColor 3s infinite alternate;
+        }
+
+        .info{
+            text-align: center;
+            position: relative;
+            top: 300px;
+
+        }
+
+    .Tillbaka{
+    background-color: rgb(59, 59, 59);
+    transition: all 0.3s ease-in-out;
+    font-family: fantasy;
+    border-radius: 23px;
+    font-size: 26px;
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+ }
+
+ .Tillbaka:hover{
+    transform: scale(1.3);
+    border-color: rgb(194, 194, 194);
+    background-color: rgb(168, 167, 167);
+
+ }
+            
